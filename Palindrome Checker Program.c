@@ -1,3 +1,4 @@
+//Author : Vishvesh Modcoicar
 #include<stdio.h>
 #include<string.h>
 int strlength(char st[100]) //String length
