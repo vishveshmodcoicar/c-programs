@@ -1,3 +1,4 @@
+//Author : Vishvesh Modcoicar
 #include<stdio.h>
 #include<math.h>
 #include <stdlib.h>
